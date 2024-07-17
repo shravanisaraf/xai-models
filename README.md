@@ -50,8 +50,8 @@ Explainable AI (XAI) aims to make the outcomes of machine learning models more i
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/shravanisaraf/xai-projects.git
-   cd xai-projects
+   git clone https://github.com/shravanisaraf/xai-models.git
+   cd xai-models
    ```
 
 2. **Create a virtual environment**:
